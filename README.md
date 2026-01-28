@@ -1,9 +1,7 @@
 # Modelo Matemático-Estatístico de Previsão de Ações B3
 
 **Autor:** Luiz Tiago Wilcke  
-**Data:** Janeiro, 2026
 
-## Visão Geral
 
 Este projeto apresenta um novo modelo híbrido para a previsão de preços de ativos financeiros na Bolsa de Valores Brasileira (B3). O modelo combina análise de séries temporais clássica com componentes estocásticos avançados, focando especificamente na modelagem de **caudas pesadas** (heavy tails) observadas em mercados reais.
 
