@@ -52,4 +52,4 @@ Isso permite que o modelo gere cenários de alta volatilidade e saltos abruptos 
 Os gráficos gerados na pasta `saida/` demonstram as previsões, incluindo intervalos de confiança que capturam a incerteza expandida devido às caudas pesadas.
 
 ---
-*Desenvolvido por Luiz Tiago Wilcke com assistência de IA Avançada.*
+*Desenvolvido por Luiz Tiago Wilcke.*
