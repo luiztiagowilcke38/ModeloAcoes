@@ -58,9 +58,9 @@ Os gráficos gerados na pasta `saida/` demonstram as previsões, incluindo inter
 *Desenvolvido por Luiz Tiago Wilcke com assistência de IA Avançada.*
 """
     
-    with open("DOMINE.md", "w", encoding="utf-8") as f: # Changed from README.md to DOMINE.md as sometimes README is reserved or preferred to be user edited, but prompt asked for README. I'll stick to 'README.md' actually to be safe, or 'LEIA-ME.md' for portuguese context. Let's use LEIA-ME.md
+    with open("README.md", "w", encoding="utf-8") as f:
         f.write(conteudo)
-    print("LEIA-ME.md gerado com sucesso!")
+    print("README.md gerado com sucesso!")
 
 if __name__ == "__main__":
     gerar_leiaue()
